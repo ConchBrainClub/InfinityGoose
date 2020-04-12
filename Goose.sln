@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goose", "Goose\Goose.csproj", "{14A268DE-E8B5-42E3-897E-76BA0CC8578D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Daemons", "Daemons\Daemons.csproj", "{13C79327-280C-4FBA-BC5B-4DCE8D9985E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daemons", "Daemons\Daemons.csproj", "{13C79327-280C-4FBA-BC5B-4DCE8D9985E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goose", "GetGoose\Goose.csproj", "{14A268DE-E8B5-42E3-897E-76BA0CC8578D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{14A268DE-E8B5-42E3-897E-76BA0CC8578D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{14A268DE-E8B5-42E3-897E-76BA0CC8578D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{14A268DE-E8B5-42E3-897E-76BA0CC8578D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{14A268DE-E8B5-42E3-897E-76BA0CC8578D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{13C79327-280C-4FBA-BC5B-4DCE8D9985E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{13C79327-280C-4FBA-BC5B-4DCE8D9985E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13C79327-280C-4FBA-BC5B-4DCE8D9985E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13C79327-280C-4FBA-BC5B-4DCE8D9985E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A268DE-E8B5-42E3-897E-76BA0CC8578D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A268DE-E8B5-42E3-897E-76BA0CC8578D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A268DE-E8B5-42E3-897E-76BA0CC8578D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A268DE-E8B5-42E3-897E-76BA0CC8578D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
