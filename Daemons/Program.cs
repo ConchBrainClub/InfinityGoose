@@ -4,9 +4,9 @@ using System.Threading;
 
 namespace Daemons
 {
-    internal class Program
+    class Program
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
             //此文件放入桌面鹅根目录文件夹
             //和GooseDesktop.exe放在一起并压缩
