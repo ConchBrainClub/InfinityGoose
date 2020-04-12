@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Daemons", "Daemons\Daemons.csproj", "{13C79327-280C-4FBA-BC5B-4DCE8D9985E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goose", "GetGoose\Goose.csproj", "{14A268DE-E8B5-42E3-897E-76BA0CC8578D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetGoose", "GetGoose\GetGoose.csproj", "{14A268DE-E8B5-42E3-897E-76BA0CC8578D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
